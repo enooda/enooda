@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 <h1 align="center">Hi 👋, I'm Lenka</h1>
-<h3 align="center">I'm an SEO Specialist and a Head of Marketing for a price comparison website-based business specialising in financial services. Alongside my job I'm learning automation testing in Selenium with Java.</h3>
+<h3 align="center">I'm a Head of Marketing for a price comparison website-based business specialising in financial services. Alongside my job I'm learning automation testing in Selenium with Java.</h3>
 
 - 📫 How to reach me **lenkami.sivak@gmail.com**
 
